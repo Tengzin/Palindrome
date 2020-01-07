@@ -1,3 +1,5 @@
+module.exports = Phrase;
+
 // Returns true if a string is equal to its reverse
 // can't reverse a string, but can reverse an array
 function reverse(string) {
