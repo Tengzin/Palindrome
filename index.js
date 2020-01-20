@@ -70,7 +70,7 @@ function Phrase(content) {
 
     this.louder = function() {
         let loud = this.content.toUpperCase();
-        return loud;
+        return loud; 
     }
 }
 
